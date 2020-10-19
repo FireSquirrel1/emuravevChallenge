@@ -1,2 +1,9 @@
 .idea/.gitignore
 *.xml
+target/classes/constans/Constants.class
+target/classes/db/DataBaseConnect.class
+target/classes/db/GetPersonFromDataBase.class
+target/classes/person/Person.class
+target/classes/person/PersonJson.class
+target/test-classes/api/ApiTests.class
+target/test-classes/db/DataBaseTests.class
